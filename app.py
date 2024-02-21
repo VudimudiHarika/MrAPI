@@ -30,4 +30,4 @@ def checknumbers():
     if num in worst:
         return "1"
     else:
-        return "0"
+        return "0" #this is false value
